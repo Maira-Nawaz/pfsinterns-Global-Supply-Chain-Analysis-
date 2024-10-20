@@ -3,7 +3,7 @@
 
 I’m excited to share my latest Power BI project 3rd task of my internship at Pinnacle Full-Stack Interns, where I analyzed a comprehensive global supply chain dataset. This dataset includes crucial details such as 𝐨𝐫𝐝𝐞𝐫 𝐚𝐧𝐝 𝐬𝐡𝐢𝐩𝐦𝐞𝐧𝐭 𝐝𝐚𝐭𝐞𝐬, 𝐜𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧, 𝐬𝐚𝐥𝐞𝐬 𝐟𝐢𝐠𝐮𝐫𝐞𝐬, 𝐝𝐞𝐥𝐢𝐯𝐞𝐫𝐲 𝐬𝐭𝐚𝐭𝐮𝐬𝐞𝐬, 𝐚𝐧𝐝 𝐩𝐫𝐨𝐝𝐮𝐜𝐭 𝐜𝐚𝐭𝐞𝐠𝐨𝐫𝐢𝐞𝐬. 
 
-𝐊𝐞𝐲 𝐌𝐞𝐭𝐫𝐢𝐜𝐬 & 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬
+𝐊𝐞𝐲 𝐌𝐞𝐭𝐫𝐢𝐜𝐬 & 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬\n
 -Total Sales: $36.78M
 -Count of Orders: 180.519K 
 -Customer Count: 180.519K 
